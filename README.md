@@ -28,3 +28,9 @@
 - Google Maps API
 - MySQL & MS SQL
 - Fast API (Python)
+<p align="center"> <a> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
+<a> <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="Google Maps API" width="40" height="40"/> </a>
+<a> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg" alt="MySQL" width="40" height="40"/> </a>
+<a> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
+<a> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/> </a>
+</p>
